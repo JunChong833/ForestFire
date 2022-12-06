@@ -23,4 +23,11 @@ Facts about RAWS:
 - The program has 75 portable units, Incident Remote Automatic Weather Stations (IRAWS) that can be deployed to any incident to augment on-site forecasts.
 - IRAWS can be tone activated, meaning a firefighter can key a tone on their handheld radio to hear current weather data. 
 
-In this project, we will implement Data Cleaning, Data Visualization, Modelling Preprocessing, and Unsupervised Learning (Clustering) to analyze the differences and the causes of forest fire. The data we are using is named 'forestfire.csv' in the data folder and the analysis code is named 'ForestFire.ipynb' in the code folder. The references are located in the References file. 
+In this project, we will implement Data Cleaning, Data Visualization, Modelling Preprocessing, and Unsupervised Learning (Clustering) to analyze the differences and the causes of forest fire. 
+
+Data:
+-data/forestfire.csv
+Code:
+-code/ForestFire.ipynb
+References:
+-/references
