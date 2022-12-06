@@ -1,7 +1,10 @@
 # ForestFire
 
-Description:
-This project will analyze the forest fire data and group each into several clusters based on their similarities using various Clustering Analysis and Methods. 
+## Problem Statement:
+Wildfire has been a growing concern for everyone. A wildfire is an unplanned, uncontrolled, and unpredictable fire in an area of combustible vegetation. It shapes our ecosystems by destroying homes, and wildlife habitats, and mainly polluting the air with emissions harmful to human health. And for preventing wildfire smoke, detecting wildfire as early as possible would help reduce the hazard to its minimum. What are the trends or patterns of the causes of wildfires? Can we use historical data and create an early warning notice on wildfire prediction? 
+
+## Description:
+This project will analyze the forest fire data and group each into several clusters based on their similarities using various Clustering Analysis and Methods, for the sake of identifying the causes and differences between each different kinds of forest fire. 
 
 Data is collected by Interagency Remote Automatic Weather Stations(RAWS) and it is accessible at the website below: 
 https://data-nifc.opendata.arcgis.com/datasets/nifc::public-view-interagency-remote-automatic-weather-stations-raws/about
@@ -20,4 +23,4 @@ Facts about RAWS:
 - The program has 75 portable units, Incident Remote Automatic Weather Stations (IRAWS) that can be deployed to any incident to augment on-site forecasts.
 - IRAWS can be tone activated, meaning a firefighter can key a tone on their handheld radio to hear current weather data. 
 
-In this project, we will implement Data Cleaning, Data Visualization, Modelling Preprocessing, and Unsupervised Learning (Clustering) to analyze the differences and the causes of forest fire.
+In this project, we will implement Data Cleaning, Data Visualization, Modelling Preprocessing, and Unsupervised Learning (Clustering) to analyze the differences and the causes of forest fire. The data we are using is named 'forestfire.csv' in the data folder and the analysis code is named 'ForestFire.ipynb' in the code folder. The references are located in the References file. 
