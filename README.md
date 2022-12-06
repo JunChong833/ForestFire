@@ -25,9 +25,9 @@ Facts about RAWS:
 
 In this project, we will implement Data Cleaning, Data Visualization, Modelling Preprocessing, and Unsupervised Learning (Clustering) to analyze the differences and the causes of forest fire. 
 
-Data:
--data/forestfire.csv
-Code:
--code/ForestFire.ipynb
-References:
--/references
+Data:  
+-data/forestfire.csv  
+Code:  
+-code/ForestFire.ipynb  
+References:  
+-/references  
